@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### DINESH R
+### 21224240037
+### EXP NO 1: Study of basic gates
 
 **AIM:** 
 
@@ -64,16 +66,25 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![program of exp 1](https://github.com/user-attachments/assets/3b5d072b-3045-49c7-a2df-1d7eb41b6d55)
 
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+
+![truthtable of exp 1](https://github.com/user-attachments/assets/d08614f9-1980-488d-b5f3-11f7f724ef9e)
+
 
 **RTL realization Output:** 
 
-**RTL**
+![truth table of exp1](https://github.com/user-attachments/assets/b36b05ff-32f1-45c5-8666-17fa731bb94c)
+
+**RTL Waveform**
+
+![RTL Waveform exp 1](https://github.com/user-attachments/assets/07d0cec7-51b1-473c-ad8e-0b8dd61f3ce6)
+
+
 
 **Result:**
 
+
+The truth tablecof the specified logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) was successfully implemented and verified using Verilog programming in Quartus II.
 
